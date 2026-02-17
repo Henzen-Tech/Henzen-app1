@@ -1,0 +1,5 @@
+{
+  "name": "Henzen Smart Coop Dashboard",
+  "description": "A high-end, real-time IoT dashboard for monitoring smart chicken coops, featuring nest status, environmental telemetry, and detailed egg production analytics.",
+  "requestFramePermissions": []
+}
